@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.0.0",
+        "solarium/solarium": "^5.2"
+    }
+}
